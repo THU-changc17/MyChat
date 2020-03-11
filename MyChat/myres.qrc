@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="res">
+    <file>res/person.png</file>
+    <file>res/verright.jpg</file>
+    <file>res/verleft.jpg</file>
+  </qresource>
+</RCC>
